@@ -1,2 +1,7 @@
-Oi eu sou o Leo!
-1-nova linha de codigo
+Conceitos Do Git/Github!
+
+*Conceito de Branch*
+Branch, em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto. Os repositórios no GitHub funcionam como uma árvore.
+
+*Conceito de Merge*
+Mesclagem é o jeito do Git de unificar um histórico bifurcado. O comando git merge permite que você pegue as linhas de desenvolvimento independentes criadas pelo git branch e as integre em uma ramificação única
