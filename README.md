@@ -1,2 +1,12 @@
-# Git.Leo-Dev
-Tutorial de como usar o git criado por Dev Aprender.
+# Git
+Git download.
+* https://git-scm.com/downloads
+
+# Git configuração.
+Abrir Git bash
+* git config --global user.name 'seu nome de usuário'
+* git config --global user.email 'seu email'
+
+# Git Visual Studio Code
+Arquivos > Preferências > configuração.
+* git:enabled
