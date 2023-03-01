@@ -10,3 +10,7 @@ Abrir Git bash
 # Git Visual Studio Code
 Arquivos > Preferências > configuração.
 * git:enabled
+
+# Aprender Git
+* https://learngitbranching.js.org/
+* https://github.com/git-game/git-game
